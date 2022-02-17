@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ajimannoyakata",
+"productVersion": "0.1",
+"dataUrl": "bin.data.unityweb",
+"wasmCodeUrl": "bin.wasm.code.unityweb",
+"wasmFrameworkUrl": "bin.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.10f1"
+}
